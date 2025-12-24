@@ -1,6 +1,6 @@
-# RAG Demo - 
+# RAG Demo
 
-A simple Retrieval Augmented Generation (RAG) demo that lets you ask questions about a collection of dummy (AI-generated) documents. The system retrieves relevant chunks from your documents and uses an LLM to generate answers with source citations.
+A simple Retrieval Augmented Generation (RAG) demo that lets you ask questions about a collection of dummy (AI-generated) documents. The system retrieves relevant chunks from your documents and uses an LLM to generate answers with source citations. Optionally, it includes functionality for asking questions with additional documents as inputs with a sample input txt file also provided (see bottom of README for instructions)
 
 Built with:
 - **LangChain** for orchestration
