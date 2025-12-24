@@ -1,0 +1,23 @@
+Technical Support FAQ
+
+Q: How do I reset my API key?
+A: Navigate to Settings > API Management > Regenerate Key. Note that this will invalidate your existing key immediately.
+
+Q: What's the maximum file size for data uploads?
+A: The maximum single file upload is 500MB. For larger datasets, use our chunked upload API or the CLI tool.
+
+Q: How often is the data synchronized?
+A: Real-time sync is available on Professional and Enterprise plans. Starter plans sync every 15 minutes.
+
+Q: Can I export my data?
+A: Yes, data can be exported in CSV, JSON, or Parquet formats. Go to Data > Export and select your preferred format.
+
+Q: What authentication methods are supported?
+A: We support OAuth 2.0, API keys, and SAML SSO (Enterprise only). Two-factor authentication is required for all accounts.
+
+Q: How do I contact support?
+A: Email support@techventures.example.com or use the in-app chat. Enterprise customers have access to a dedicated support line: 1-800-TECH-HELP.
+
+Q: What's the SLA for uptime?
+A: We guarantee 99.9% uptime for Professional plans and 99.99% for Enterprise plans.
+
